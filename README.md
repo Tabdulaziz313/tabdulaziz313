@@ -14,6 +14,17 @@
 </p>
 
 
+## 🖥 Software and Tools:
+
+<p align="left">
+    <img alt='ubuntu' src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/000000/external-ubuntu-is-a-free-and-open-source-linux-distribution-logo-color-tal-revivo.png"/>
+    <img alt='postman' src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
+    <img alt='vscode' src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/000000/external-visual-studio-code-is-a-source-code-editor-developed-by-microsoft-logo-color-tal-revivo.png"/>
+    <img alt='sublime' src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/000000/external-sublime-text-a-sophisticated-text-editor-for-code-markup-language-logo-color-tal-revivo.png"/>
+    <img alt='stackoverflow' src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/000000/external-stack-overflow-web-portal-for-professional-and-enthusiast-programmers-logo-color-tal-revivo.png"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
+</p>
+
 
 ## 📬 Connect with me:
 <!-- ## 🔗 Connect with me: -->
