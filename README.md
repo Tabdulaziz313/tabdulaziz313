@@ -7,16 +7,6 @@
 
 - 💬 Ask me about **Hello, my name is Takhirjanov, the son of Abdulaziz Umidjon, I am 22 years old. I am currently running a web development business.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://dev.to/tabdulaziz313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/tabdulaziz313" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdulaziz-tohirjonov-ba7059235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdulaziz-tohirjonov-ba7059235/" height="30" width="40" /></a>
-</p>
-
-
-
-
-
 ## 📬 Connect with me:
 <!-- ## 🔗 Connect with me: -->
 
