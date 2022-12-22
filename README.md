@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tokhirjonov Abdulaziz Umidjon</h1>
 <h3 align="center">I'm a Frontend Developer from Uzbekistan.</h3>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tabdulaziz313&label=Profile%20views&color=0e75b6&style=flat" alt="tabdulaziz313" /> </p>
+
+- 🌱 I’m currently learning **Najot Talim**
+
+- 💬 Ask me about **Hello, my name is Takhirjanov, the son of Abdulaziz Umidjon, I am 22 years old. I am currently running a web development business.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
