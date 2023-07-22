@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tokhirjonov Abdulaziz Umidjon</h1>
+<h1 align="center">Hi 👋, I'm Tokhirjonov Abdulaziz</h1>
 <h3 align="center">I'm a Frontend Developer from Uzbekistan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tabdulaziz313&label=Profile%20views&color=0e75b6&style=flat" alt="tabdulaziz313" /> </p>
